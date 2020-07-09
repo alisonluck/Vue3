@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"sampledb.eventtables"}],"uuid":"43ed3b6761924826b84b3a628ead7418"}
